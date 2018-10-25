@@ -7,10 +7,10 @@
         {
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2015-06-15",
-            "name": "eb-tm-lab-StorageAccount1",
+            "name": "ebtm-lab1-StorageAcct1",
             "location": "[resourceGroup().location]",
             "tags": {
-                "displayName": "eb-tm-lab-StorageAccount1"
+                "displayName": "ebtm-lab1-StorageAcct1"
             },
             "properties": {
                 "accountType": "Standard_LRS"
